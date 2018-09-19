@@ -1,0 +1,10 @@
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\domain\WhenYouPrintAGrid.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\test\categories\IntegrationTests.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\domain\WhenYouCreateACell.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\domain\WhenYouCreateANewUniverse.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\test\categories\SlowTests.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\domain\WhenYouCreateAGrid.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\integration\WhenYouStoreGamesInADatabase.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\test\categories\RegressionTests.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\domain\WhenYouReadAGridFromAString.java
+D:\DevOps\Docker\Docker-K8S\pipeline\game-of-life\gameoflife-core\src\test\java\com\wakaleo\gameoflife\domain\WhenYouPlayTheGameOfLife.java
